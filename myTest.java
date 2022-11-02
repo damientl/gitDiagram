@@ -1,4 +1,0 @@
-pkg
-
-class myTest
-
