@@ -2,3 +2,4 @@ pkg
 
 class myTest
 
+myChanges
